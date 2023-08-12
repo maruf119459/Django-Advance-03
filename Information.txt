@@ -1,0 +1,7 @@
+User name : admin     ->      password : 123
+
+User name : root      ->      password : 12345678N
+
+User name : admin2    ->      password : 123
+
+User name : rahim    ->      password : 12345naim
